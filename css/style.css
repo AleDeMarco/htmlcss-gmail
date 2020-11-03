@@ -1,0 +1,64 @@
+/* tag */
+body {
+  width: 1000px;
+  margin: 20px auto;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  background-image: url(https://wallpaperaccess.com/full/84248.png);
+}
+
+img{
+  width: 100px;
+  vertical-align: middle;
+}
+
+h2{
+  color: white;
+}
+
+footer{
+  text-align: center;
+  color: white;
+}
+
+/* class */
+.logo{
+  color: white;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.row{
+  background-color: lightgrey;
+  border: 1px solid black;
+}
+
+.read{
+  background-color: white;
+}
+
+.left{
+  width: 30%;
+  display: inline-block;
+}
+
+.right{
+  width: 68%;
+  display: inline-block;
+}
+
+/* id */
+#unread{
+  background-color: lightgrey;
+  border-radius: 50%;
+  padding: 10px;
+  color: black;
+}
+
+#star{
+  color: gold;
+}
+
+#credit{
+  font-size: 25px;
+}
